@@ -1,6 +1,6 @@
 {
     "name": "@ch20026103/material",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "main": "lib/index.js",
     "dependencies": {
         "@material-ui/core": "^4.11.0",
