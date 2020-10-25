@@ -1,8 +1,7 @@
 {
-    "name": "@test/material",
+    "name": "@ch20026103/material",
     "version": "0.0.2",
     "main": "lib/index.js",
-    "module": "src/index.js",
     "dependencies": {
         "@material-ui/core": "^4.11.0",
         "react": "16.8.5",
@@ -12,5 +11,6 @@
         "@material-ui/core": "^4.11.0",
         "react": "^16.0.0",
         "react-dom": "^16.0.0"
-    }
+    },
+    "gitHead": "cb96f7a4191b6c182ef2d70d010d5c7f66678037"
 }
