@@ -1,5 +1,5 @@
 {
-    "name": "@ch20026103/material",
+    "name": "@ch20026103/react-component",
     "version": "0.0.3",
     "main": "lib/index.js",
     "dependencies": {
