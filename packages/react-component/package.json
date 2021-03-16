@@ -1,5 +1,5 @@
 {
-    "name": "@ch20026103/react-component",
+    "name": "@ch20026103/self-react-component",
     "version": "0.0.4",
     "main": "lib/index.js",
     "dependencies": {
@@ -12,5 +12,5 @@
         "react": "^16.0.0",
         "react-dom": "^16.0.0"
     },
-    "gitHead": "cb96f7a4191b6c182ef2d70d010d5c7f66678037"
+    "gitHead": "3dd4d25893277d651b02f3c22ed8685285ce4b21"
 }
